@@ -1,4 +1,4 @@
-#FC103班student10學員的專案
+# 這是CFC103班student10學員的專案
 
 
  1. 請先下載XXXX
